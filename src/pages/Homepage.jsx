@@ -3,7 +3,7 @@ import React from "react";
 function Homepage() {
   return (
     <>
-      <p>homepage</p>
+      <p className="text-2xl font-bold underline">homepage</p>
     </>
   );
 }
