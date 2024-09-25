@@ -1,9 +1,10 @@
 import React from "react";
+import Header from "../components/Header";
 
 function Homepage() {
   return (
     <>
-      <p className="text-2xl font-bold underline">homepage</p>
+    <Header/>
     </>
   );
 }
